@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\bin\Debug\netcoreapp3.1\ClassDelegate.exe
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\bin\Debug\netcoreapp3.1\ClassDelegate.deps.json
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\bin\Debug\netcoreapp3.1\ClassDelegate.runtimeconfig.json
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\bin\Debug\netcoreapp3.1\ClassDelegate.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\bin\Debug\netcoreapp3.1\ClassDelegate.dll
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\bin\Debug\netcoreapp3.1\ClassDelegate.pdb
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.dll
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.pdb
+C:\Users\Administrator\Desktop\Delegates\ClassDelegate\ClassDelegate\obj\Debug\netcoreapp3.1\ClassDelegate.genruntimeconfig.cache
